@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6DDBC6A2-4A5C-47EC-98F6-8AA67F1EC74C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PersonalBookLibrary PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonalBookLibrary/Startup.cs">
+    <Files>
+      <File FileName="PersonalBookLibrary/Controllers/BooksController.cs" Line="17" Column="46" />
+      <File FileName="PersonalBookLibrary/Data/EFCore/AppDbContext.cs" Line="16" Column="1" />
+      <File FileName="PersonalBookLibrary/Filters/ApiResponse.cs" />
+      <File FileName="PersonalBookLibrary/Startup.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PersonalBookLibrary" expanded="True">
+            <Node name="PersonalBookLibrary" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
